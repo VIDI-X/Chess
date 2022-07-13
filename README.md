@@ -6,7 +6,7 @@
 // Tested and Working ON:
 // Arduino 1.8.13, 1.8.19 - Arduinio IDE version
 // ESP32 board 1.0.4      - Boards Manager version
-// ODROID ESP32           - Pločica za kompajliranje
+// ODROID ESP32           - Boards
 ////////////////////////////////////////////////////
 // Not working on those:
 // ESP32 board 1.0.5, 1.0.6 - Boards Manager version
@@ -14,6 +14,8 @@
 ////////////////////////////////////////////////////
 ```
 
+
+![20220713_105309](https://user-images.githubusercontent.com/68710971/178695999-85d2f552-3175-4f04-84d5-2c1ce0db3daa.jpg)
 
 
 #### Using the Arduino IDE Library Manager
